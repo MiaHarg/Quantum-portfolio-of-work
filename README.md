@@ -1,0 +1,1 @@
+Hello! This repository is a personal project to develop skills needed in the intersection between Quantum Computing and cyber consulting. The repository will (hopefully) include one HNDL project, leading into a CBOM/migration audit project.
